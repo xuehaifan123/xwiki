@@ -54,7 +54,7 @@ class SortModal extends Component {
   }
   
   state = {
-    visible: true,
+    visible: false,
     list: [],
   };
 
